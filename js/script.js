@@ -59,8 +59,8 @@ function printQuote() {
 
 }
 
-// After 4sec run the function "printQuote"
-setInterval( function() { printQuote(); }, 4000 );
+// After 8sec run the function "printQuote" (1 or 2 seconds wasn't enough for me to read the quotes)
+setInterval( function() { printQuote(); }, 8000 );
 
 /***
  * click event listener for the print quote button
