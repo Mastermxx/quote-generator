@@ -46,13 +46,6 @@ let quotes = [
     year : '1974'
   },
   {
-    quote: "My name is Maximus Decimus Meridius, commander of the Armies of the North, General of the Felix Legions and loyal servant to the true emperor, Marcus Aurelius. Father to a murdered son, husband to a murdered wife. And I will have my vengeance, in this life or the next.",
-    source : 'Maximus Decimus Meridius',
-    actor: 'Russell Crowe',
-    citation : 'Gladiator',
-    year : '2000'
-  },
-  {
     quote: "I mean, funny like I'm a clown? I amuse you?",
     source : 'Tommy DeVito',
     actor: 'Joe Pesci',
